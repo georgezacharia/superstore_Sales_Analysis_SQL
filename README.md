@@ -44,5 +44,5 @@ This repository provides an analysis of the Superstore dataset, which includes i
 ### 9. Yearly Sales Trends
 - Sales have shown a positive trend from 2019 to 2022, with notable increases each year, indicating business growth.
 
-- #### This analysis provides actionable insights into sales, profits, and customer behavior using the Superstore dataset. By leveraging SQL queries and Python visualizations, we have uncovered key trends and performance metrics that can guide business strategy and decision-making. The findings offer a comprehensive view of the sales landscape and highlight areas for potential improvement and growth.
+#### This analysis provides actionable insights into sales, profits, and customer behavior using the Superstore dataset. By leveraging SQL queries and Python visualizations, we have uncovered key trends and performance metrics that can guide business strategy and decision-making. The findings offer a comprehensive view of the sales landscape and highlight areas for potential improvement and growth.
 
