@@ -52,6 +52,10 @@ The dataset was sourced from Kaggle, providing a comprehensive view of Superstor
 3. Home Office
 - **Insight:** The Consumer segment leads in both sales and profit, suggesting a strong B2C market for Superstore.
 
+- ### 9. Yearly Sales Trends
+- Sales have shown a positive trend from 2019 to 2022, with notable increases each year, indicating business growth.
+
+
 ## 💡 Recommendations
 
 1. **Product Focus:** Invest in marketing and stocking of high-performing tech products, especially copiers and phones.
@@ -82,8 +86,6 @@ Implementing these data-driven strategies will position Superstore to capitalize
 
 Analysis prepared by: George Zacharia 📊🛒
 
-### 9. Yearly Sales Trends
-- Sales have shown a positive trend from 2019 to 2022, with notable increases each year, indicating business growth.
 
 #### This analysis provides actionable insights into sales, profits, and customer behavior using the Superstore dataset. By leveraging SQL queries and Python visualizations, we have uncovered key trends and performance metrics that can guide business strategy and decision-making. The findings offer a comprehensive view of the sales landscape and highlight areas for potential improvement and growth.
 
